@@ -1,0 +1,7 @@
+D:\Users\Roman\C#\MatrixCode2.0\MatrixCode2.0\bin\Debug\MatrixCode2.0.exe.config
+D:\Users\Roman\C#\MatrixCode2.0\MatrixCode2.0\bin\Debug\MatrixCode2.0.exe
+D:\Users\Roman\C#\MatrixCode2.0\MatrixCode2.0\bin\Debug\MatrixCode2.0.pdb
+D:\Users\Roman\C#\MatrixCode2.0\MatrixCode2.0\obj\Debug\MatrixCode2.0.csprojAssemblyReference.cache
+D:\Users\Roman\C#\MatrixCode2.0\MatrixCode2.0\obj\Debug\MatrixCode2.0.csproj.CoreCompileInputs.cache
+D:\Users\Roman\C#\MatrixCode2.0\MatrixCode2.0\obj\Debug\MatrixCode2.0.exe
+D:\Users\Roman\C#\MatrixCode2.0\MatrixCode2.0\obj\Debug\MatrixCode2.0.pdb
